@@ -10,11 +10,18 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)
 ![Transformers](https://img.shields.io/badge/Transformers-4.30+-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
 </div>
 
 ---
 
+<div align="center">
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jg8r2eLBp5xVe5gamtd2zS2etDtwhxNn?usp=sharing)
+
+
+</div>
+
+---
 ## 📋 项目概述
 
 本项目基于**XLM-RoBERTa-base**预训练模型，构建了一个支持**15种语言**的**序列标注型命名实体识别系统**。系统采用**大语言模型驱动的数据合成策略**，结合**强化学习启发的动态优化框架**，实现了在有限计算资源约束下的**最优训练集构建**与**跨语言性能优化**。
